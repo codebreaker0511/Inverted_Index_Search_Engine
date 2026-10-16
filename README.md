@@ -6,7 +6,7 @@ A C++ search engine that performs efficient document retrieval using an inverted
 
 * Document ingestion from a user-specified directory
 * Text preprocessing and tokenization
-* Inverted index construction
+* Inverted index construction.
 * TF-IDF based document ranking
 * Interactive query processing
 * Case-insensitive search
